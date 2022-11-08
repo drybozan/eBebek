@@ -1,4 +1,4 @@
-package TaksimetreHesaplayıcı;
+package week1.TaksimetreHesaplayıcı;
 
 import java.util.Scanner;
 

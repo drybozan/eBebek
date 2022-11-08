@@ -1,4 +1,4 @@
-package UcgenAlanıHesaplama;
+package week1.UcgenAlanıHesaplama;
 
 import java.util.Scanner;
 

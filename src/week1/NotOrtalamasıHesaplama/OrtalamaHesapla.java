@@ -1,4 +1,4 @@
-package NotOrtalamasıHesaplama;
+package week1.NotOrtalamasıHesaplama;
 
 import java.util.Scanner;
 

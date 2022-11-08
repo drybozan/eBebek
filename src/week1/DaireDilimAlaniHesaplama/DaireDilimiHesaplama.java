@@ -1,8 +1,8 @@
-package DaireDilimAlaniHesaplama;
+package week1.DaireDilimAlaniHesaplama;
 
 import java.util.Scanner;
 
-public class DaireDilimAlaniHesapla {
+public class DaireDilimiHesaplama {
     public static void main(String[] args) {
         double pi =3.14;
 

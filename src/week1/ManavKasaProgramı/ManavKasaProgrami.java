@@ -1,4 +1,4 @@
-package ManavKasaProgramı;
+package week1.ManavKasaProgramı;
 
 import java.util.Scanner;
 

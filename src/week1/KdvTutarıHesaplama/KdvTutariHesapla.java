@@ -1,4 +1,4 @@
-package KdvTutarıHesaplama;
+package week1.KdvTutarıHesaplama;
 
 import java.util.Scanner;
 

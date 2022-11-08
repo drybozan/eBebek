@@ -1,4 +1,4 @@
-package VucutKitleİndeksHesaplama;
+package week1.VucutKitleİndeksHesaplama;
 
 import java.util.Scanner;
 
