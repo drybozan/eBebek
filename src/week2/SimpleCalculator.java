@@ -2,16 +2,20 @@ package week2;
 
 import java.util.Scanner;
 
-public class HesapMakinesi {
+public class SimpleCalculator {
     public static void main(String[] args) {
+
+        // define variable
         int n , m , h;
+
+        // take data from user
         Scanner input= new Scanner(System.in);
         System.out.print( "ilk sayinizi giriniz :");
         n= input.nextInt();
-        Scanner input1= new Scanner(System.in);
+
         System.out.print( "ikinci sayinizi giriniz :");
         m= input.nextInt();
-        Scanner input2= new Scanner(System.in);
+
         System.out.println( "\n toplam 1\n cikarma 2\n carpma 3\n bolme 4 sekilde  seciniz");
         System.out.println( "seciminiz : ");
         h= input.nextInt();
