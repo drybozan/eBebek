@@ -7,7 +7,7 @@ public class Activity {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the air temperature : ");
-        int heat = input.nextInt();
+        double  heat = input.nextDouble();
 
         if (heat<5){
             System.out.println("Do skiing.");
