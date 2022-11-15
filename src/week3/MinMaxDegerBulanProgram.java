@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MinMaxDegerBulanProgram {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.print("Kaç tane sayı gireceksiniz : ");
+        System.out.print("Kaç adet sayı gireceksiniz : ");
         int count = input.nextInt();
 
         int max=0,min=0;
@@ -18,8 +18,10 @@ public class MinMaxDegerBulanProgram {
                 min = number;
                 max = number;
             }
-            if(number > max) max = number;
-            if(number < min) min = number;
+            if(number > max)
+                max = number;
+            if(number < min)
+                min = number;
         }
         System.out.println("En Büyük Sayı = "+max);
         System.out.println("En Küçük Sayı = "+min);
